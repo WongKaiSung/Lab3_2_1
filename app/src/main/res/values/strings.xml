@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 3_2_1</string>
+    <string name="name">Enter user ID</string>
+    <string name="password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="reset">Reset</string>
+</resources>
