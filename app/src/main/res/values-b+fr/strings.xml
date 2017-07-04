@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratoire 3_2_1</string>
+    <string name="name">Entrez lID utilisateur</string>
+    <string name="password">Entrer le mot de passe</string>
+    <string name="login">Sidentifier</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="hello">Bonjour le monde!</string>
+</resources>
